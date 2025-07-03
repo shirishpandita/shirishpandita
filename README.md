@@ -14,7 +14,7 @@
 
 - **NLP-Based Terrorism Narrative Analysis**  
   An in-depth dissertation project applying sentiment and ideology modeling to detect extremist online content.  
-  [GitHub & Project Details ➜](https://github.com/shirishpandita/Forensic.SocialMedia.AI.Dissertation)
+  [GitHub & Project Details ➜](https://github.com/shirishpandita/NLP-Disinformation-Violence)
 
 - **Crime Pattern Mapping AI (In Progress)**  
   A machine learning model designed to analyze structured crime reports, link them to historical cases, and predict crime typologies.  
