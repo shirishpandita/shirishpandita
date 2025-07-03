@@ -1,55 +1,97 @@
 <div align="center">
-  <h1>Hi, I'm Shirish Pandita 👋</h1>
-  <h3>Forensic Researcher in AI & Behavioral Analysis</h3>
+
+# 👋 [Hey, I'm Shirish Pandita](https://github.com/shirishpandita) 
+</div>
+<div align="center">
+
+### [Forensic Researcher | Cybercrime Analyst](https://github.com/shirishpandita)
+ ### Building Forensics with Intellegent Systems
+<div align="left">
+  
+ - 80+ real cybercrime cases handled (Directorate of Forensic Science Laboratory, J&K)
+   
+ - 50+ court-admissible forensic reports authored
+   
+ - Built AI tools for crime pattern mapping and narrative-based profiling
+   
+ - Certified in Document, Signature & Handwriting Examination
+
 </div>
 
----
 
-## 🧰 Key Areas of Interest
-**Cyber Forensics** · **AI‑Driven Crime Profiling** · **Document & Signature Analysis** · **Symbolic Communication** · **Migration Conflict Forensics**
 
----
+<div align="left">
+  
+## 🚀 Projects
 
-## 🔍 Current Projects
+### 🧠 [Terrorism Narrative Analysis (NLP)](https://github.com/shirishpandita/NLP-Disinformation-Violence)  
+🔹 Analyzed social media posts of known offenders using sentiment, emotion, and ideology tagging.  
+🔹 Modeled psychological drift from grievance ➝ blame ➝ dehumanization.
 
-- **NLP-Based Terrorism Narrative Analysis**  
-  An in-depth dissertation project applying sentiment and ideology modeling to detect extremist online content.  
-  [GitHub & Project Details ➜](https://github.com/shirishpandita/NLP-Disinformation-Violence)
 
-- **Crime Pattern Mapping AI (In Progress)**  
-  A machine learning model designed to analyze structured crime reports, link them to historical cases, and predict crime typologies.  
-  *(Anticipated showcase: Fall 2025)*
 
----
+### 🔍 [Crime Pattern Mapping AI](https://github.com/shirishpandita/Crime-Matcher-AI)  
+🔹 ML model that analyzes structured crime reports and identifies similar historical cases using clustering and similarity mapping.  
+🔹 Integrates investigative logic with unsupervised learning.
 
-## 🛠️ Tech & Tools
 
+
+## 🛠️ Tech Stack
+
+<!-- Row 1: AI / ML / Data -->
 <div align="center">
-  <a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://profilinator.rishav.dev/skills-assets/scikit-learn-logo.svg" alt="Scikit-learn" height="40"/></a>
-  <a href="https://opencv.org/"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="40"/></a>
-  <a href="https://www.encase.com/"><img src="https://profilinator.rishav.dev/skills-assets/enencion-not-a-logo.svg" alt="EnCase" height="40"/></a>
-  <a href="https://magnetforensics.com/"><img src="https://profilinator.rishav.dev/skills-assets/magnet-axiom-original-wordmark.svg" alt="Magnet AXIOM" height="40"/></a>
-  <a href="https://www.cellebrite.com/"><img src="https://profilinator.rishav.dev/skills-assets/cellebrite-original.svg" alt="Cellebrite UFED" height="40"/></a>
+
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python"/></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="PyTorch"/></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="TensorFlow"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="Jupyter"/></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="NumPy"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="Pandas"/></a>
+<a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60" alt="Matplotlib"/></a>
+<a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="OpenCV"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub"/></a>
+
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
-
+<!-- Row 2: Forensic Tools (text-based) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shirishpandita&show_icons=true&theme=vue-dark" alt="Shirish's GitHub stats" />
+
+<img src="https://img.shields.io/badge/Cellebrite-UFED-orange?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Magnet-AXIOM-blue?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/EnCase-Software-004080?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/FTK-Toolkit-005C7A?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/XRY-MobileRecovery-2E86C1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Belkasoft-Analyzer-1A5276?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Chip--Off-Forensics-6A1B9A?style=flat-square&logoColor=white" height="28"/>
+
 </div>
 
----
 
-## 🌐 Connect with Me
+## 📫 Contact
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/shirishpandita">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+<div align="left" style="display: flex; gap: 20px; align-items: center;">
+
+  <a href="https://www.linkedin.com/in/shirishpandita" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" style="display: block;" />
   </a>
-  <a href="mailto:shirishpandita@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
+
+&nbsp;
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shirishpandita@icloud.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="Gmail" style="display: block;" />
   </a>
+</div>
+
+
+
+## GitHub Stats
+
+<div align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shirishpandita&show_icons=true&theme=vue-dark" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirishpandita&layout=compact&theme=vue-dark" height="160"/>
+
 </div>
